@@ -1,8 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="250"/>
 </div>
-
-
 <div id="badges" align="center">
   <a href="https://t.me/kkkaolsc01">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -14,13 +12,11 @@
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=PrCode00&style=flat-square&color=blue" alt=""/>
   <h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=90&lines=Hello+World!;I+am+glad+to+welcome+you" alt="Typing SVG" /></a>
 </div>
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
